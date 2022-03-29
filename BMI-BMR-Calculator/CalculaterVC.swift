@@ -1,10 +1,3 @@
-//
-//  CalculaterVC.swift
-//  BMICalculator
-//
-//  Created by Erdem Okçu on 18.01.2022.
-//
-
 import UIKit
 import CoreData
 
