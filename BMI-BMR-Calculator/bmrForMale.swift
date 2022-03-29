@@ -1,10 +1,3 @@
-//
-//  bmrForMale.swift
-//  BMICalculator
-//
-//  Created by Erdem Okçu on 31.01.2022.
-//
-
 import Foundation
 import UIKit
 
