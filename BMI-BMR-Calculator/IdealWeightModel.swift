@@ -1,10 +1,3 @@
-//
-//  IdealWeightModel.swift
-//  BMICalculator
-//
-//  Created by Erdem Okçu on 19.01.2022.
-//
-
 import Foundation
 import UIKit
 
