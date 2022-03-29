@@ -12,6 +12,7 @@ Calculating BMI and BMR values and calculating the weight that the person needs 
 
 ## The situation where the body mass index value is in the ideal range :
 
+![Ekran Resmi 2022-03-29 22 07 57](https://user-images.githubusercontent.com/91677453/160690022-cecb7043-6ccf-421c-93b8-85078e61005d.png)
 ![Ekran Resmi 2022-03-29 22 06 54](https://user-images.githubusercontent.com/91677453/160689929-c05c52b1-308c-46f5-b94d-63384b73b665.png)
 
 
